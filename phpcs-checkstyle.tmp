@@ -1,0 +1,3 @@
+<file name="/var/www/phpdemo/src/MyClass.php">
+ <error line="3" column="30" severity="error" message="Opening brace should be on a new line" source="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine"/>
+</file>
